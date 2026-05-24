@@ -1,0 +1,9 @@
+body {
+    background-color: var(--darker);
+    text-align: center;
+}
+
+#board {
+     background-color: rgb(111, 148, 154); 
+    background-image: url("./doodlejumpbg.png");
+}
